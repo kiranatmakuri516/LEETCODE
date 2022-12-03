@@ -9,7 +9,6 @@ using namespace std;
 
 class Solution {
 public:
-
     int solve(int n, int k, vector<int>a) {
       int i,j,l,m,p,q,r,s,t,u,v;
       sort(a.begin(),a.end());
