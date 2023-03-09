@@ -32,6 +32,6 @@ The task is to complete the function <strong>rearrange</strong>() which rearrang
 <strong>Expected Auxiliary Space:</strong>&nbsp;O(1).</p>
 
 <p><strong>Constraints:</strong><br>
-1 &lt;= n &lt;= 106<br>
-1 &lt;= arr[i] &lt;= 107</p>
+1 &lt;= n &lt;= 10^6<br>
+1 &lt;= arr[i] &lt;= 10^7</p>
 </div>
